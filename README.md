@@ -1,6 +1,8 @@
-In this project I have explored Game Theoretic solutions to problems in Blockchain Technology with brief discussion addressing the issues with MDP(Markov Decision Process) solutions in contrast.
+This project  is part of the "Introduction to Blockchain and Distributed Ledger Technology" course by Prof: Ayesha Kiani at NYU .
 <br>
-Focus is on the following network domain problems:
+The project explores Game Theoretic solutions to problems in Blockchain Technology. Brief discussion addressing the issues with MDP(Markov Decision Process) solutions in contrast.
+<br>
+Primary focus is on the following security issues:
 * Selfish Mining attack
 * 51% attack
 * Denial of Service(DOS) attack
